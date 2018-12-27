@@ -16,10 +16,10 @@
   transition: all 0.5s;
 }
 .menu{
-  margin:50px 530px;
+  margin:30px 530px;
 }
 .menu > img{
-  display:inline-block;
+  display:inline-block;margin-right:5px;
 }
 .red{
   border:1px solid rgba(207,207,207);
